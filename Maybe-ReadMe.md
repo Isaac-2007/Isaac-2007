@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Isaac!
+- 👀 I’m interested in technology and coding.
+- 👨‍💼 Currently, I am a student.
